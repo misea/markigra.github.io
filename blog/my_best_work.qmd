@@ -102,3 +102,5 @@ Because there was no good web-testing system, I prototyped a cross-frame system,
 Brian, with Joe & Ryan’s help, made all this run on servers that he personally installed in a cage at a data center. I think he also had to move them when the data center company went bankrupt.
 
 I would be very happy if someone built a version of Westside using all the modern web technologies. There are so many off-the-shelf components from Node, React and web-based code editors to full text engines like ElasticSearch, that it shouldn’t be too terribly challenging to build a facsimile. Getting the designer, data and security models right is the tricky bit, but I’m sure it can be done. If you decide to do it, let me know; I’ll happily become a customer.
+
+<!-- Copyright Mark Igra 2017, All rights reserved -->

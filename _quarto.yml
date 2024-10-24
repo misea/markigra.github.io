@@ -9,6 +9,7 @@ website:
         text: Home
       - href: blog.qmd
         text: Blog
+  page-footer: "© 2012-2024 Mark Igra"
 
 format:
   html:
@@ -16,5 +17,7 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
+
+  
 

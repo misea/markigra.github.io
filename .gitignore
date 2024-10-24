@@ -5,3 +5,5 @@
 
 /.quarto/
 /old_site/
+/.site/
+/_site/

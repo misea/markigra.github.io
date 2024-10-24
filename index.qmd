@@ -1,18 +1,20 @@
 ---
-title: "Mark Igra"
+toc: false
 ---
 
-<p>I'm a PhD candidate in the UW Sociology PhD program. My work is focused on understanding
+# Mark Igra
+
+I'm a PhD candidate in Sociology at the University of Washington. My work is focused on understanding
  how social structures and culture shape feelings of compassion, 
    animus and indifference to others.
     Under what conditions do those feelings translate into beneficial or detrimental action? How do institutions and markets amplify or inhibit the effects of those actions? 
     My work on inequality in crowdfunding has been published in [Social Forces](https://academic.oup.com/sf/advance-article-abstract/doi/10.1093/sf/soab076/6313260), 
     [Social Science & Medicine](https://www.sciencedirect.com/science/article/pii/S0277953621004378) and the [American Journal of Public Health](http://ajph.aphapublications.org/doi/10.2105/AJPH.2021.306617). 
     Nora Kenworthy and I talked about our work on [NPR Science Friday](https://sciencefriday.com/segments/crowdfunding-gofundme-healthcare/), and wrote an op ed in [Scientific American](https://www.scientificamerican.com/article/crowdfunding-isnt-enough-in-a-crisis/). 
-    Our work was also covered in the [New York Times](https://www.nytimes.com/2021/06/21/technology/gofundme-online-giving.html). You can find my CV [here](mark_igra_cv.pdf).</p>
+    Our work was also covered in the [New York Times](https://www.nytimes.com/2021/06/21/technology/gofundme-online-giving.html). You can find my CV [here](mark_igra_cv.pdf).
 
-<p>I started [sciences.social](https://sciences.social) a place where social scientists can participate in the open social web.  You can find me 
-<a rel="me" href="https://sciences.social/@markigra">@markigra@sciences.social</a></p>
+I started [sciences.social](https://sciences.social) a place where social scientists can participate in the open social web.  You can find me 
+<a rel="me" href="https://sciences.social/@markigra">@markigra@sciences.social</a>
 
 ## Software
 
@@ -21,3 +23,5 @@ Prior to beginning my PhD, I had a long career in the software industry. I was a
 ## About Me
 
 I live in Seattle where I demonstrate life's futility by rooting for the Mariners and hoping for sunny days. I add an item to my "[blog](blog)" every 5 years or so.
+
+<!-- Copyright Mark Igra 2024, All rights reserved -->
